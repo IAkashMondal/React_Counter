@@ -1,0 +1,37 @@
+.increment{
+    color: white;
+    background: #008527;
+    font-weight: bold;
+    border: none;
+    padding: 5px 10px 5px 10px ;
+    box-sizing: border-box;
+    
+}.increment:hover{
+    color: rgb(253, 216, 165);
+    background-color: #0aab78
+}
+#decrement{
+    color: black;
+    background: #f8003f;
+    font-weight: bold;
+    border: none;
+    padding: 5px 10px 5px 10px ;
+    box-sizing: border-box;
+    gap : 10% ;
+}#decrement:hover{
+    color:#747474 ;
+    background-color: #fc4444;
+}.Double{
+    color: white;
+    background: #0073b4;
+    font-weight: bold;
+    border: none;
+    padding: 5px 10px 5px 10px ;
+    box-sizing: border-box;
+}.Double:hover{
+    color: #1c2938;
+    background-color: #609fb4;
+}#gap{
+    margin: auto;
+    gap:200px;
+}
